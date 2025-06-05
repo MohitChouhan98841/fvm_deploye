@@ -4,3 +4,7 @@ FVM for linux
 Now enjoye new Features
 ✅ clear download folder  
 ✅ add shortcut option 
+
+#setup
+
+unzip the 
