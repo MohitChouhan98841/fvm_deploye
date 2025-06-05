@@ -7,4 +7,4 @@ Now enjoye new Features
 
 #setup
 
-unzip the 
+unzip the bundle.tar.zip
