@@ -7,4 +7,8 @@ Now enjoye new Features
 
 #setup
 
-unzip the bundle.tar.zip
+unzip the bundle.tar.xz
+
+in your home/fvm_gui
+
+then open the eia_fvm_1
